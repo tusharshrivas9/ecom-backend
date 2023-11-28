@@ -1,0 +1,5 @@
+password- rxSYioksgNlAOfRS
+
+tusharshrivas65
+
+mongodb+srv://tusharshrivas65:<password>@cluster0.q1cvc5n.mongodb.net/
